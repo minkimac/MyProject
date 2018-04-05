@@ -3,6 +3,6 @@
 namespace Common
 {
     public class MyClass
-    {
+    { 
     }
 }
